@@ -1,3 +1,5 @@
+
+
 This is 13 Vanilla JavaScript Project.
 
 Lorem Ispum generator.
@@ -10,3 +12,6 @@ Lorem Ispum generator.
 - array.slice();
 - .map();
 - .join();
+
+
+https://user-images.githubusercontent.com/81517284/126056994-0cb3494f-09bc-4b33-abd7-93d04dbde02c.mp4
